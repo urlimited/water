@@ -1,0 +1,12 @@
+export const ROUTE_TO_LOGIN_PAGE = "/login";
+export const ROUTE_TO_REGISTER_PAGE = "/register";
+export const ROUTE_TO_MAIN_PAGE = "/";
+export const ROUTE_TO_DASHBOARD = "/dashboard";
+export const ROUTE_TO_PRODUCTS = "/products";
+export const ROUTE_TO_ACTIVE_ORDERS = "/orders/active";
+export const ROUTE_TO_COMPLETED_ORDERS = "/orders/completed";
+export const ROUTE_TO_ALL_ORDERS = "/orders/all";
+export const ROUTE_TO_USERS_COURIERS = "/users/couriers";
+export const ROUTE_TO_WAREHOUSE = "/reports/warehouse";
+export const ROUTE_TO_CASH = "/reports/cash";
+export const ROUTE_TO_PROBLEMS = "/reports/problems";

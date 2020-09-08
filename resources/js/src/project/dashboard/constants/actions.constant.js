@@ -1,0 +1,11 @@
+export const ACTION_CREATE_NEW_ORDER = "action_create_new_order";
+export const ACTION_REJECT_ORDER = "action_reject_order";
+export const ACTION_EDIT_ORDER = "action_edit_order";
+export const ACTION_GET_ORDERS = "action_get_orders";
+export const ACTION_SET_PRODUCTS = "action_set_products";
+export const ACTION_SET_COURIERS = "action_set_couriers";
+export const ACTION_SET_CUSTOMERS = "action_set_customers";
+export const ACTION_SET_ORDERS = "action_set_orders";
+export const ACTION_SET_INVENTORY_REPORTS = "action_set_inventory_reports";
+export const ACTION_SET_PROBLEMS = "action_set_problems";
+export const ACTION_SET_CASH_REPORTS = "action_set_cash_reports";
