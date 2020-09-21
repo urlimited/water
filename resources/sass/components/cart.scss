@@ -1,0 +1,26 @@
+.product_in_cart_price, .product_in_cart_amount {
+  border: none;
+  border-bottom: 1px solid #999;
+  color: #222;
+  display: inline-block;
+  margin: 0 5px;
+  outline: none;
+  text-align: right;
+}
+
+.product_in_cart_price{
+  width: 70px
+}
+
+.product_in_cart_amount {
+  width: 50px
+}
+
+.order_delivery_datepicker{
+  border: #ccc solid 1px;
+  border-radius: 2px;
+  color: #333;
+  outline: none;
+  padding: 7px 10px;
+  width: 125px;
+}
